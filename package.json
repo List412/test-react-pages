@@ -2,7 +2,7 @@
   "name": "test-react-pages",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://list412.github.io/testReactPages",
+  "homepage": "https://list412.github.io/test-react-pages/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
